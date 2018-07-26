@@ -11,7 +11,7 @@ setwd("./")
 rm(list=ls())
 
 # load data
-data_all = read.csv("./joints_stanceEnd_resub.csv")
+data_all = read.csv("./joints_stanceEnd.csv")
 
 ####################################################################################
 
